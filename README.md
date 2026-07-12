@@ -7,7 +7,7 @@
 - 目前版本：v1.0.0 Beta
 - 支援系統：Windows 10／11 x64
 - 發布形式：ZIP 免安裝版
-- 資料方式：本機儲存，不上傳伺服器
+- 追蹤板資料方式：本機儲存，不主動上傳伺服器
 - [最新版本下載](https://github.com/vampirehollieee/job-application-tracker/releases/tag/v1.0.0-beta)
 - [履歷方向初判](https://resume-intake-v1-260710.mar227392.chatgpt.site/intake/form/)
 
@@ -59,6 +59,9 @@
 - 資料儲存在使用者自己的 Windows 本機
 - 網頁版與 Windows 版不會自動同步
 - 更換電腦、清除資料或重裝前，請先匯出 JSON 備份
+- 本機紀錄與匯出的 JSON 備份目前皆未加密
+- 請勿在共用電腦保存敏感內容，並妥善保管 JSON 備份檔案
+- 點擊「履歷方向初判」會開啟外部網站；在該網站送出的資料，不屬於追蹤板的本機儲存範圍
 
 ## 從需求到工具落地
 
