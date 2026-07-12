@@ -1,0 +1,16 @@
+node_modules/
+dist/
+release/
+*.tsbuildinfo
+*.log
+coverage/
+test-results/
+playwright-report/
+.vitest/
+.vite/
+.cache/
+.tmp/
+tmp/
+temp/
+*.tmp
+*.temp
