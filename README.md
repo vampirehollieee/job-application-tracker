@@ -16,6 +16,7 @@
 ![求職投遞追蹤板首頁](docs/screenshots/dashboard-sample-data.png)
 
 ![新增與編輯職缺表單](docs/screenshots/application-form.png)
+
 畫面中的公司、職缺與紀錄皆為虛構範例資料。
 
 ## 這個工具解決什麼問題
